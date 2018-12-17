@@ -1,0 +1,1 @@
+Run super_resolution.py file to generate SR output images from LR input images.

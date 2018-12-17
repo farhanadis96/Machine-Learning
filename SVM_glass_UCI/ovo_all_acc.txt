@@ -1,0 +1,1014 @@
+Microsoft Windows [Version 10.0.17134.285]
+(c) 2018 Microsoft Corporation. All rights reserved.
+
+C:\Users\Admin>cd desktop
+
+C:\Users\Admin\Desktop>cd ml
+
+C:\Users\Admin\Desktop\ML>cd assignment 2
+
+C:\Users\Admin\Desktop\ML\Assignment 2>python trial5.py
+C:\Users\Admin\AppData\Local\Programs\Python\Python37\lib\site-packages\sklearn\cross_validation.py:41: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
+  "This module will be removed in 0.20.", DeprecationWarning)
+c= 0.03125 ;gamma= 3.0517578125e-05 ;accuracy= 0.3548387096774194
+c= 0.03125 ;gamma= 0.0001220703125 ;accuracy= 0.3548387096774194
+c= 0.03125 ;gamma= 0.00048828125 ;accuracy= 0.3548387096774194
+c= 0.03125 ;gamma= 0.001953125 ;accuracy= 0.3548387096774194
+c= 0.03125 ;gamma= 0.0078125 ;accuracy= 0.3548387096774194
+c= 0.03125 ;gamma= 0.03125 ;accuracy= 0.3548387096774194
+c= 0.03125 ;gamma= 0.125 ;accuracy= 0.3548387096774194
+c= 0.03125 ;gamma= 0.5 ;accuracy= 0.3548387096774194
+c= 0.03125 ;gamma= 2 ;accuracy= 0.3548387096774194
+c= 0.03125 ;gamma= 8 ;accuracy= 0.3548387096774194
+c= 0.03125 ;gamma= 32 ;accuracy= 0.3548387096774194
+c= 0.0625 ;gamma= 3.0517578125e-05 ;accuracy= 0.3548387096774194
+c= 0.0625 ;gamma= 0.0001220703125 ;accuracy= 0.3548387096774194
+c= 0.0625 ;gamma= 0.00048828125 ;accuracy= 0.3548387096774194
+c= 0.0625 ;gamma= 0.001953125 ;accuracy= 0.3548387096774194
+c= 0.0625 ;gamma= 0.0078125 ;accuracy= 0.3548387096774194
+c= 0.0625 ;gamma= 0.03125 ;accuracy= 0.3548387096774194
+c= 0.0625 ;gamma= 0.125 ;accuracy= 0.4838709677419355
+c= 0.0625 ;gamma= 0.5 ;accuracy= 0.3548387096774194
+c= 0.0625 ;gamma= 2 ;accuracy= 0.3548387096774194
+c= 0.0625 ;gamma= 8 ;accuracy= 0.3548387096774194
+c= 0.0625 ;gamma= 32 ;accuracy= 0.3548387096774194
+c= 0.125 ;gamma= 3.0517578125e-05 ;accuracy= 0.3548387096774194
+c= 0.125 ;gamma= 0.0001220703125 ;accuracy= 0.3548387096774194
+c= 0.125 ;gamma= 0.00048828125 ;accuracy= 0.3548387096774194
+c= 0.125 ;gamma= 0.001953125 ;accuracy= 0.3548387096774194
+c= 0.125 ;gamma= 0.0078125 ;accuracy= 0.3548387096774194
+c= 0.125 ;gamma= 0.03125 ;accuracy= 0.4838709677419355
+c= 0.125 ;gamma= 0.125 ;accuracy= 0.5428571428571428
+c= 0.125 ;gamma= 0.5 ;accuracy= 0.6129032258064516
+c= 0.125 ;gamma= 2 ;accuracy= 0.6129032258064516
+c= 0.125 ;gamma= 8 ;accuracy= 0.42857142857142855
+c= 0.125 ;gamma= 32 ;accuracy= 0.3548387096774194
+c= 0.25 ;gamma= 3.0517578125e-05 ;accuracy= 0.3548387096774194
+c= 0.25 ;gamma= 0.0001220703125 ;accuracy= 0.3548387096774194
+c= 0.25 ;gamma= 0.00048828125 ;accuracy= 0.3548387096774194
+c= 0.25 ;gamma= 0.001953125 ;accuracy= 0.3548387096774194
+c= 0.25 ;gamma= 0.0078125 ;accuracy= 0.3548387096774194
+c= 0.25 ;gamma= 0.03125 ;accuracy= 0.5142857142857142
+c= 0.25 ;gamma= 0.125 ;accuracy= 0.5806451612903226
+c= 0.25 ;gamma= 0.5 ;accuracy= 0.7419354838709677
+c= 0.25 ;gamma= 2 ;accuracy= 0.7096774193548387
+c= 0.25 ;gamma= 8 ;accuracy= 0.5806451612903226
+c= 0.25 ;gamma= 32 ;accuracy= 0.3548387096774194
+c= 0.5 ;gamma= 3.0517578125e-05 ;accuracy= 0.3548387096774194
+c= 0.5 ;gamma= 0.0001220703125 ;accuracy= 0.3548387096774194
+c= 0.5 ;gamma= 0.00048828125 ;accuracy= 0.3548387096774194
+c= 0.5 ;gamma= 0.001953125 ;accuracy= 0.3548387096774194
+c= 0.5 ;gamma= 0.0078125 ;accuracy= 0.4838709677419355
+c= 0.5 ;gamma= 0.03125 ;accuracy= 0.6060606060606061
+c= 0.5 ;gamma= 0.125 ;accuracy= 0.6571428571428571
+c= 0.5 ;gamma= 0.5 ;accuracy= 0.8064516129032258
+c= 0.5 ;gamma= 2 ;accuracy= 0.7096774193548387
+c= 0.5 ;gamma= 8 ;accuracy= 0.5806451612903226
+c= 0.5 ;gamma= 32 ;accuracy= 0.5483870967741935
+c= 1 ;gamma= 3.0517578125e-05 ;accuracy= 0.3548387096774194
+c= 1 ;gamma= 0.0001220703125 ;accuracy= 0.3548387096774194
+c= 1 ;gamma= 0.00048828125 ;accuracy= 0.3548387096774194
+c= 1 ;gamma= 0.001953125 ;accuracy= 0.3548387096774194
+c= 1 ;gamma= 0.0078125 ;accuracy= 0.45454545454545453
+c= 1 ;gamma= 0.03125 ;accuracy= 0.5757575757575758
+c= 1 ;gamma= 0.125 ;accuracy= 0.6774193548387096
+c= 1 ;gamma= 0.5 ;accuracy= 0.7027027027027027
+c= 1 ;gamma= 2 ;accuracy= 0.7419354838709677
+c= 1 ;gamma= 8 ;accuracy= 0.7419354838709677
+c= 1 ;gamma= 32 ;accuracy= 0.5161290322580645
+c= 2 ;gamma= 3.0517578125e-05 ;accuracy= 0.3548387096774194
+c= 2 ;gamma= 0.0001220703125 ;accuracy= 0.3548387096774194
+c= 2 ;gamma= 0.00048828125 ;accuracy= 0.3548387096774194
+c= 2 ;gamma= 0.001953125 ;accuracy= 0.4838709677419355
+c= 2 ;gamma= 0.0078125 ;accuracy= 0.5483870967741935
+c= 2 ;gamma= 0.03125 ;accuracy= 0.5483870967741935
+c= 2 ;gamma= 0.125 ;accuracy= 0.7419354838709677
+c= 2 ;gamma= 0.5 ;accuracy= 0.7428571428571429
+c= 2 ;gamma= 2 ;accuracy= 0.7297297297297297
+c= 2 ;gamma= 8 ;accuracy= 0.7419354838709677
+c= 2 ;gamma= 32 ;accuracy= 0.5483870967741935
+c= 4 ;gamma= 3.0517578125e-05 ;accuracy= 0.3548387096774194
+c= 4 ;gamma= 0.0001220703125 ;accuracy= 0.3548387096774194
+c= 4 ;gamma= 0.00048828125 ;accuracy= 0.3548387096774194
+c= 4 ;gamma= 0.001953125 ;accuracy= 0.48484848484848486
+c= 4 ;gamma= 0.0078125 ;accuracy= 0.5483870967741935
+c= 4 ;gamma= 0.03125 ;accuracy= 0.6857142857142857
+c= 4 ;gamma= 0.125 ;accuracy= 0.7419354838709677
+c= 4 ;gamma= 0.5 ;accuracy= 0.7428571428571429
+c= 4 ;gamma= 2 ;accuracy= 0.7741935483870968
+c= 4 ;gamma= 8 ;accuracy= 0.7096774193548387
+c= 4 ;gamma= 32 ;accuracy= 0.5483870967741935
+c= 8 ;gamma= 3.0517578125e-05 ;accuracy= 0.3548387096774194
+c= 8 ;gamma= 0.0001220703125 ;accuracy= 0.3548387096774194
+c= 8 ;gamma= 0.00048828125 ;accuracy= 0.45714285714285713
+c= 8 ;gamma= 0.001953125 ;accuracy= 0.5945945945945946
+c= 8 ;gamma= 0.0078125 ;accuracy= 0.5428571428571428
+c= 8 ;gamma= 0.03125 ;accuracy= 0.7027027027027027
+c= 8 ;gamma= 0.125 ;accuracy= 0.7419354838709677
+c= 8 ;gamma= 0.5 ;accuracy= 0.7567567567567568
+c= 8 ;gamma= 2 ;accuracy= 0.7741935483870968
+c= 8 ;gamma= 8 ;accuracy= 0.7096774193548387
+c= 8 ;gamma= 32 ;accuracy= 0.5483870967741935
+c= 16 ;gamma= 3.0517578125e-05 ;accuracy= 0.3548387096774194
+c= 16 ;gamma= 0.0001220703125 ;accuracy= 0.3548387096774194
+c= 16 ;gamma= 0.00048828125 ;accuracy= 0.48484848484848486
+c= 16 ;gamma= 0.001953125 ;accuracy= 0.5806451612903226
+c= 16 ;gamma= 0.0078125 ;accuracy= 0.5714285714285714
+c= 16 ;gamma= 0.03125 ;accuracy= 0.7297297297297297
+c= 16 ;gamma= 0.125 ;accuracy= 0.7567567567567568
+c= 16 ;gamma= 0.5 ;accuracy= 0.7837837837837838
+c= 16 ;gamma= 2 ;accuracy= 0.7741935483870968
+c= 16 ;gamma= 8 ;accuracy= 0.7096774193548387
+c= 16 ;gamma= 32 ;accuracy= 0.5483870967741935
+c= 32 ;gamma= 3.0517578125e-05 ;accuracy= 0.3548387096774194
+c= 32 ;gamma= 0.0001220703125 ;accuracy= 0.45714285714285713
+c= 32 ;gamma= 0.00048828125 ;accuracy= 0.5945945945945946
+c= 32 ;gamma= 0.001953125 ;accuracy= 0.5483870967741935
+c= 32 ;gamma= 0.0078125 ;accuracy= 0.6857142857142857
+c= 32 ;gamma= 0.03125 ;accuracy= 0.7567567567567568
+c= 32 ;gamma= 0.125 ;accuracy= 0.7428571428571429
+c= 32 ;gamma= 0.5 ;accuracy= 0.8108108108108109
+c= 32 ;gamma= 2 ;accuracy= 0.7027027027027027
+c= 32 ;gamma= 8 ;accuracy= 0.7096774193548387
+c= 32 ;gamma= 32 ;accuracy= 0.5483870967741935
+c= 64 ;gamma= 3.0517578125e-05 ;accuracy= 0.3548387096774194
+c= 64 ;gamma= 0.0001220703125 ;accuracy= 0.48484848484848486
+c= 64 ;gamma= 0.00048828125 ;accuracy= 0.5806451612903226
+c= 64 ;gamma= 0.001953125 ;accuracy= 0.5714285714285714
+c= 64 ;gamma= 0.0078125 ;accuracy= 0.7419354838709677
+c= 64 ;gamma= 0.03125 ;accuracy= 0.7837837837837838
+c= 64 ;gamma= 0.125 ;accuracy= 0.7428571428571429
+c= 64 ;gamma= 0.5 ;accuracy= 0.7837837837837838
+c= 64 ;gamma= 2 ;accuracy= 0.7027027027027027
+c= 64 ;gamma= 8 ;accuracy= 0.7096774193548387
+c= 64 ;gamma= 32 ;accuracy= 0.5483870967741935
+Opt par (rbf):  c= 32 gamma= 0.5 acc= 0.8108108108108109
+Accuracy (rbf) :  79.06976744186046
+Training Time (rbf) : 0.0
+----------------------------------------------------------------------------------------------------------------
+gamma= 0.015625 degree= 1 c= 0.03125 ;accuracy= 0.3548387096774194
+gamma= 0.015625 degree= 1 c= 0.0625 ;accuracy= 0.3548387096774194
+gamma= 0.015625 degree= 1 c= 0.125 ;accuracy= 0.3548387096774194
+gamma= 0.015625 degree= 1 c= 0.25 ;accuracy= 0.3548387096774194
+gamma= 0.015625 degree= 1 c= 0.5 ;accuracy= 0.45714285714285713
+gamma= 0.015625 degree= 1 c= 2 ;accuracy= 0.5151515151515151
+gamma= 0.015625 degree= 1 c= 4 ;accuracy= 0.6060606060606061
+gamma= 0.015625 degree= 1 c= 8 ;accuracy= 0.5161290322580645
+gamma= 0.015625 degree= 1 c= 16 ;accuracy= 0.5483870967741935
+gamma= 0.015625 degree= 2 c= 0.03125 ;accuracy= 0.5483870967741935
+gamma= 0.015625 degree= 2 c= 0.0625 ;accuracy= 0.5428571428571428
+gamma= 0.015625 degree= 2 c= 0.125 ;accuracy= 0.6129032258064516
+gamma= 0.015625 degree= 2 c= 0.25 ;accuracy= 0.6774193548387096
+gamma= 0.015625 degree= 2 c= 0.5 ;accuracy= 0.6451612903225806
+gamma= 0.015625 degree= 2 c= 2 ;accuracy= 0.7741935483870968
+gamma= 0.015625 degree= 2 c= 4 ;accuracy= 0.7741935483870968
+gamma= 0.015625 degree= 2 c= 8 ;accuracy= 0.7741935483870968
+gamma= 0.015625 degree= 2 c= 16 ;accuracy= 0.7837837837837838
+gamma= 0.015625 degree= 3 c= 0.03125 ;accuracy= 0.7741935483870968
+gamma= 0.015625 degree= 3 c= 0.0625 ;accuracy= 0.7837837837837838
+gamma= 0.015625 degree= 3 c= 0.125 ;accuracy= 0.7837837837837838
+gamma= 0.015625 degree= 3 c= 0.25 ;accuracy= 0.7567567567567568
+gamma= 0.015625 degree= 3 c= 0.5 ;accuracy= 0.7837837837837838
+gamma= 0.015625 degree= 3 c= 2 ;accuracy= 0.7837837837837838
+gamma= 0.015625 degree= 3 c= 4 ;accuracy= 0.8108108108108109
+gamma= 0.015625 degree= 3 c= 8 ;accuracy= 0.7837837837837838
+gamma= 0.015625 degree= 3 c= 16 ;accuracy= 0.8108108108108109
+gamma= 0.015625 degree= 4 c= 0.03125 ;accuracy= 0.8378378378378378
+gamma= 0.015625 degree= 4 c= 0.0625 ;accuracy= 0.7419354838709677
+gamma= 0.015625 degree= 4 c= 0.125 ;accuracy= 0.7567567567567568
+gamma= 0.015625 degree= 4 c= 0.25 ;accuracy= 0.7297297297297297
+gamma= 0.015625 degree= 4 c= 0.5 ;accuracy= 0.7567567567567568
+gamma= 0.015625 degree= 4 c= 2 ;accuracy= 0.7837837837837838
+gamma= 0.015625 degree= 4 c= 4 ;accuracy= 0.7837837837837838
+gamma= 0.015625 degree= 4 c= 8 ;accuracy= 0.8108108108108109
+gamma= 0.015625 degree= 4 c= 16 ;accuracy= 0.7837837837837838
+gamma= 0.03125 degree= 1 c= 0.03125 ;accuracy= 0.3548387096774194
+gamma= 0.03125 degree= 1 c= 0.0625 ;accuracy= 0.3548387096774194
+gamma= 0.03125 degree= 1 c= 0.125 ;accuracy= 0.3548387096774194
+gamma= 0.03125 degree= 1 c= 0.25 ;accuracy= 0.45714285714285713
+gamma= 0.03125 degree= 1 c= 0.5 ;accuracy= 0.48484848484848486
+gamma= 0.03125 degree= 1 c= 2 ;accuracy= 0.6060606060606061
+gamma= 0.03125 degree= 1 c= 4 ;accuracy= 0.5161290322580645
+gamma= 0.03125 degree= 1 c= 8 ;accuracy= 0.5483870967741935
+gamma= 0.03125 degree= 1 c= 16 ;accuracy= 0.5806451612903226
+gamma= 0.03125 degree= 2 c= 0.03125 ;accuracy= 0.6129032258064516
+gamma= 0.03125 degree= 2 c= 0.0625 ;accuracy= 0.6774193548387096
+gamma= 0.03125 degree= 2 c= 0.125 ;accuracy= 0.6451612903225806
+gamma= 0.03125 degree= 2 c= 0.25 ;accuracy= 0.7096774193548387
+gamma= 0.03125 degree= 2 c= 0.5 ;accuracy= 0.7741935483870968
+gamma= 0.03125 degree= 2 c= 2 ;accuracy= 0.7741935483870968
+gamma= 0.03125 degree= 2 c= 4 ;accuracy= 0.7837837837837838
+gamma= 0.03125 degree= 2 c= 8 ;accuracy= 0.7567567567567568
+gamma= 0.03125 degree= 2 c= 16 ;accuracy= 0.7741935483870968
+gamma= 0.03125 degree= 3 c= 0.03125 ;accuracy= 0.7567567567567568
+gamma= 0.03125 degree= 3 c= 0.0625 ;accuracy= 0.7837837837837838
+gamma= 0.03125 degree= 3 c= 0.125 ;accuracy= 0.7837837837837838
+gamma= 0.03125 degree= 3 c= 0.25 ;accuracy= 0.7837837837837838
+gamma= 0.03125 degree= 3 c= 0.5 ;accuracy= 0.8108108108108109
+gamma= 0.03125 degree= 3 c= 2 ;accuracy= 0.8108108108108109
+gamma= 0.03125 degree= 3 c= 4 ;accuracy= 0.7567567567567568
+gamma= 0.03125 degree= 3 c= 8 ;accuracy= 0.8108108108108109
+gamma= 0.03125 degree= 3 c= 16 ;accuracy= 0.7837837837837838
+gamma= 0.03125 degree= 4 c= 0.03125 ;accuracy= 0.7567567567567568
+gamma= 0.03125 degree= 4 c= 0.0625 ;accuracy= 0.7419354838709677
+gamma= 0.03125 degree= 4 c= 0.125 ;accuracy= 0.7837837837837838
+gamma= 0.03125 degree= 4 c= 0.25 ;accuracy= 0.7837837837837838
+gamma= 0.03125 degree= 4 c= 0.5 ;accuracy= 0.8108108108108109
+gamma= 0.03125 degree= 4 c= 2 ;accuracy= 0.8108108108108109
+gamma= 0.03125 degree= 4 c= 4 ;accuracy= 0.7837837837837838
+gamma= 0.03125 degree= 4 c= 8 ;accuracy= 0.8108108108108109
+gamma= 0.03125 degree= 4 c= 16 ;accuracy= 0.7837837837837838
+gamma= 0.0625 degree= 1 c= 0.03125 ;accuracy= 0.3548387096774194
+gamma= 0.0625 degree= 1 c= 0.0625 ;accuracy= 0.3548387096774194
+gamma= 0.0625 degree= 1 c= 0.125 ;accuracy= 0.45714285714285713
+gamma= 0.0625 degree= 1 c= 0.25 ;accuracy= 0.48484848484848486
+gamma= 0.0625 degree= 1 c= 0.5 ;accuracy= 0.5151515151515151
+gamma= 0.0625 degree= 1 c= 2 ;accuracy= 0.5161290322580645
+gamma= 0.0625 degree= 1 c= 4 ;accuracy= 0.5483870967741935
+gamma= 0.0625 degree= 1 c= 8 ;accuracy= 0.5806451612903226
+gamma= 0.0625 degree= 1 c= 16 ;accuracy= 0.6451612903225806
+gamma= 0.0625 degree= 2 c= 0.03125 ;accuracy= 0.6451612903225806
+gamma= 0.0625 degree= 2 c= 0.0625 ;accuracy= 0.7096774193548387
+gamma= 0.0625 degree= 2 c= 0.125 ;accuracy= 0.7741935483870968
+gamma= 0.0625 degree= 2 c= 0.25 ;accuracy= 0.7741935483870968
+gamma= 0.0625 degree= 2 c= 0.5 ;accuracy= 0.7741935483870968
+gamma= 0.0625 degree= 2 c= 2 ;accuracy= 0.7567567567567568
+gamma= 0.0625 degree= 2 c= 4 ;accuracy= 0.7741935483870968
+gamma= 0.0625 degree= 2 c= 8 ;accuracy= 0.7837837837837838
+gamma= 0.0625 degree= 2 c= 16 ;accuracy= 0.8108108108108109
+gamma= 0.0625 degree= 3 c= 0.03125 ;accuracy= 0.7837837837837838
+gamma= 0.0625 degree= 3 c= 0.0625 ;accuracy= 0.8108108108108109
+gamma= 0.0625 degree= 3 c= 0.125 ;accuracy= 0.7837837837837838
+gamma= 0.0625 degree= 3 c= 0.25 ;accuracy= 0.8108108108108109
+gamma= 0.0625 degree= 3 c= 0.5 ;accuracy= 0.7567567567567568
+gamma= 0.0625 degree= 3 c= 2 ;accuracy= 0.7837837837837838
+gamma= 0.0625 degree= 3 c= 4 ;accuracy= 0.8108108108108109
+gamma= 0.0625 degree= 3 c= 8 ;accuracy= 0.8378378378378378
+gamma= 0.0625 degree= 3 c= 16 ;accuracy= 0.8378378378378378
+gamma= 0.0625 degree= 4 c= 0.03125 ;accuracy= 0.8108108108108109
+gamma= 0.0625 degree= 4 c= 0.0625 ;accuracy= 0.7837837837837838
+gamma= 0.0625 degree= 4 c= 0.125 ;accuracy= 0.8108108108108109
+gamma= 0.0625 degree= 4 c= 0.25 ;accuracy= 0.7837837837837838
+gamma= 0.0625 degree= 4 c= 0.5 ;accuracy= 0.8108108108108109
+gamma= 0.0625 degree= 4 c= 2 ;accuracy= 0.7837837837837838
+gamma= 0.0625 degree= 4 c= 4 ;accuracy= 0.7837837837837838
+gamma= 0.0625 degree= 4 c= 8 ;accuracy= 0.7837837837837838
+gamma= 0.0625 degree= 4 c= 16 ;accuracy= 0.7567567567567568
+gamma= 0.125 degree= 1 c= 0.03125 ;accuracy= 0.3548387096774194
+gamma= 0.125 degree= 1 c= 0.0625 ;accuracy= 0.45714285714285713
+gamma= 0.125 degree= 1 c= 0.125 ;accuracy= 0.48484848484848486
+gamma= 0.125 degree= 1 c= 0.25 ;accuracy= 0.5151515151515151
+gamma= 0.125 degree= 1 c= 0.5 ;accuracy= 0.6060606060606061
+gamma= 0.125 degree= 1 c= 2 ;accuracy= 0.5483870967741935
+gamma= 0.125 degree= 1 c= 4 ;accuracy= 0.5806451612903226
+gamma= 0.125 degree= 1 c= 8 ;accuracy= 0.6451612903225806
+gamma= 0.125 degree= 1 c= 16 ;accuracy= 0.6451612903225806
+gamma= 0.125 degree= 2 c= 0.03125 ;accuracy= 0.7741935483870968
+gamma= 0.125 degree= 2 c= 0.0625 ;accuracy= 0.7741935483870968
+gamma= 0.125 degree= 2 c= 0.125 ;accuracy= 0.7741935483870968
+gamma= 0.125 degree= 2 c= 0.25 ;accuracy= 0.7837837837837838
+gamma= 0.125 degree= 2 c= 0.5 ;accuracy= 0.7567567567567568
+gamma= 0.125 degree= 2 c= 2 ;accuracy= 0.7837837837837838
+gamma= 0.125 degree= 2 c= 4 ;accuracy= 0.8108108108108109
+gamma= 0.125 degree= 2 c= 8 ;accuracy= 0.8108108108108109
+gamma= 0.125 degree= 2 c= 16 ;accuracy= 0.8378378378378378
+gamma= 0.125 degree= 3 c= 0.03125 ;accuracy= 0.8108108108108109
+gamma= 0.125 degree= 3 c= 0.0625 ;accuracy= 0.7567567567567568
+gamma= 0.125 degree= 3 c= 0.125 ;accuracy= 0.8108108108108109
+gamma= 0.125 degree= 3 c= 0.25 ;accuracy= 0.7837837837837838
+gamma= 0.125 degree= 3 c= 0.5 ;accuracy= 0.8108108108108109
+gamma= 0.125 degree= 3 c= 2 ;accuracy= 0.8378378378378378
+gamma= 0.125 degree= 3 c= 4 ;accuracy= 0.8378378378378378
+gamma= 0.125 degree= 3 c= 8 ;accuracy= 0.8108108108108109
+gamma= 0.125 degree= 3 c= 16 ;accuracy= 0.8108108108108109
+gamma= 0.125 degree= 4 c= 0.03125 ;accuracy= 0.8108108108108109
+gamma= 0.125 degree= 4 c= 0.0625 ;accuracy= 0.7837837837837838
+gamma= 0.125 degree= 4 c= 0.125 ;accuracy= 0.7837837837837838
+gamma= 0.125 degree= 4 c= 0.25 ;accuracy= 0.7837837837837838
+gamma= 0.125 degree= 4 c= 0.5 ;accuracy= 0.7837837837837838
+gamma= 0.125 degree= 4 c= 2 ;accuracy= 0.7567567567567568
+gamma= 0.125 degree= 4 c= 4 ;accuracy= 0.7567567567567568
+gamma= 0.125 degree= 4 c= 8 ;accuracy= 0.7837837837837838
+gamma= 0.125 degree= 4 c= 16 ;accuracy= 0.8378378378378378
+gamma= 0.25 degree= 1 c= 0.03125 ;accuracy= 0.45714285714285713
+gamma= 0.25 degree= 1 c= 0.0625 ;accuracy= 0.48484848484848486
+gamma= 0.25 degree= 1 c= 0.125 ;accuracy= 0.5151515151515151
+gamma= 0.25 degree= 1 c= 0.25 ;accuracy= 0.6060606060606061
+gamma= 0.25 degree= 1 c= 0.5 ;accuracy= 0.5161290322580645
+gamma= 0.25 degree= 1 c= 2 ;accuracy= 0.5806451612903226
+gamma= 0.25 degree= 1 c= 4 ;accuracy= 0.6451612903225806
+gamma= 0.25 degree= 1 c= 8 ;accuracy= 0.6451612903225806
+gamma= 0.25 degree= 1 c= 16 ;accuracy= 0.7419354838709677
+gamma= 0.25 degree= 2 c= 0.03125 ;accuracy= 0.7741935483870968
+gamma= 0.25 degree= 2 c= 0.0625 ;accuracy= 0.7837837837837838
+gamma= 0.25 degree= 2 c= 0.125 ;accuracy= 0.7567567567567568
+gamma= 0.25 degree= 2 c= 0.25 ;accuracy= 0.7741935483870968
+gamma= 0.25 degree= 2 c= 0.5 ;accuracy= 0.7837837837837838
+gamma= 0.25 degree= 2 c= 2 ;accuracy= 0.8108108108108109
+gamma= 0.25 degree= 2 c= 4 ;accuracy= 0.8378378378378378
+gamma= 0.25 degree= 2 c= 8 ;accuracy= 0.8378378378378378
+gamma= 0.25 degree= 2 c= 16 ;accuracy= 0.8648648648648649
+gamma= 0.25 degree= 3 c= 0.03125 ;accuracy= 0.7837837837837838
+gamma= 0.25 degree= 3 c= 0.0625 ;accuracy= 0.8108108108108109
+gamma= 0.25 degree= 3 c= 0.125 ;accuracy= 0.8378378378378378
+gamma= 0.25 degree= 3 c= 0.25 ;accuracy= 0.8378378378378378
+gamma= 0.25 degree= 3 c= 0.5 ;accuracy= 0.8378378378378378
+gamma= 0.25 degree= 3 c= 2 ;accuracy= 0.8108108108108109
+gamma= 0.25 degree= 3 c= 4 ;accuracy= 0.8378378378378378
+gamma= 0.25 degree= 3 c= 8 ;accuracy= 0.8378378378378378
+gamma= 0.25 degree= 3 c= 16 ;accuracy= 0.8378378378378378
+gamma= 0.25 degree= 4 c= 0.03125 ;accuracy= 0.7837837837837838
+gamma= 0.25 degree= 4 c= 0.0625 ;accuracy= 0.7567567567567568
+gamma= 0.25 degree= 4 c= 0.125 ;accuracy= 0.7567567567567568
+gamma= 0.25 degree= 4 c= 0.25 ;accuracy= 0.7567567567567568
+gamma= 0.25 degree= 4 c= 0.5 ;accuracy= 0.7837837837837838
+gamma= 0.25 degree= 4 c= 2 ;accuracy= 0.8378378378378378
+gamma= 0.25 degree= 4 c= 4 ;accuracy= 0.7567567567567568
+gamma= 0.25 degree= 4 c= 8 ;accuracy= 0.8378378378378378
+gamma= 0.25 degree= 4 c= 16 ;accuracy= 0.7837837837837838
+optimal hyperparameters (poly) : gamma= 0.25 degree= 2 c= 16 accuracy= 0.8648648648648649
+Accuracy (poly) :  72.09302325581395
+Training Time (poly) : 0.21609926223754883
+----------------------------------------------------------------------------------------------------------------
+c= 0.03125 ;accuracy= 0.5151515151515151
+c= 0.0625 ;accuracy= 0.6060606060606061
+c= 0.125 ;accuracy= 0.5161290322580645
+c= 0.25 ;accuracy= 0.5483870967741935
+c= 0.5 ;accuracy= 0.5806451612903226
+c= 1 ;accuracy= 0.6451612903225806
+c= 2 ;accuracy= 0.6451612903225806
+c= 4 ;accuracy= 0.7419354838709677
+c= 8 ;accuracy= 0.7419354838709677
+c= 16 ;accuracy= 0.7419354838709677
+c= 32 ;accuracy= 0.7419354838709677
+c= 64 ;accuracy= 0.7419354838709677
+Opt par (linear):  c= 4 acc= 0.7419354838709677
+Accuracy (linear) :  72.09302325581395
+Training Time (linear) : 0.0
+----------------------------------------------------------------------------------------------------------------
+c= 0.03125 ;gamma= 3.0517578125e-05 coeff= 1 ;accuracy= 0.375
+c= 0.0625 ;gamma= 3.0517578125e-05 coeff= 1 ;accuracy= 0.375
+c= 0.125 ;gamma= 3.0517578125e-05 coeff= 1 ;accuracy= 0.375
+c= 0.25 ;gamma= 3.0517578125e-05 coeff= 1 ;accuracy= 0.375
+c= 0.5 ;gamma= 3.0517578125e-05 coeff= 1 ;accuracy= 0.375
+c= 1 ;gamma= 3.0517578125e-05 coeff= 1 ;accuracy= 0.375
+c= 2 ;gamma= 3.0517578125e-05 coeff= 1 ;accuracy= 0.375
+c= 4 ;gamma= 3.0517578125e-05 coeff= 1 ;accuracy= 0.375
+c= 8 ;gamma= 3.0517578125e-05 coeff= 1 ;accuracy= 0.375
+c= 16 ;gamma= 3.0517578125e-05 coeff= 1 ;accuracy= 0.375
+c= 32 ;gamma= 3.0517578125e-05 coeff= 1 ;accuracy= 0.375
+c= 64 ;gamma= 3.0517578125e-05 coeff= 1 ;accuracy= 0.375
+c= 0.03125 ;gamma= 0.0001220703125 coeff= 1 ;accuracy= 0.375
+c= 0.0625 ;gamma= 0.0001220703125 coeff= 1 ;accuracy= 0.375
+c= 0.125 ;gamma= 0.0001220703125 coeff= 1 ;accuracy= 0.375
+c= 0.25 ;gamma= 0.0001220703125 coeff= 1 ;accuracy= 0.375
+c= 0.5 ;gamma= 0.0001220703125 coeff= 1 ;accuracy= 0.375
+c= 1 ;gamma= 0.0001220703125 coeff= 1 ;accuracy= 0.375
+c= 2 ;gamma= 0.0001220703125 coeff= 1 ;accuracy= 0.375
+c= 4 ;gamma= 0.0001220703125 coeff= 1 ;accuracy= 0.375
+c= 8 ;gamma= 0.0001220703125 coeff= 1 ;accuracy= 0.375
+c= 16 ;gamma= 0.0001220703125 coeff= 1 ;accuracy= 0.375
+c= 32 ;gamma= 0.0001220703125 coeff= 1 ;accuracy= 0.375
+c= 64 ;gamma= 0.0001220703125 coeff= 1 ;accuracy= 0.375
+c= 0.03125 ;gamma= 0.00048828125 coeff= 1 ;accuracy= 0.375
+c= 0.0625 ;gamma= 0.00048828125 coeff= 1 ;accuracy= 0.375
+c= 0.125 ;gamma= 0.00048828125 coeff= 1 ;accuracy= 0.375
+c= 0.25 ;gamma= 0.00048828125 coeff= 1 ;accuracy= 0.375
+c= 0.5 ;gamma= 0.00048828125 coeff= 1 ;accuracy= 0.375
+c= 1 ;gamma= 0.00048828125 coeff= 1 ;accuracy= 0.375
+c= 2 ;gamma= 0.00048828125 coeff= 1 ;accuracy= 0.375
+c= 4 ;gamma= 0.00048828125 coeff= 1 ;accuracy= 0.375
+c= 8 ;gamma= 0.00048828125 coeff= 1 ;accuracy= 0.375
+c= 16 ;gamma= 0.00048828125 coeff= 1 ;accuracy= 0.375
+c= 32 ;gamma= 0.00048828125 coeff= 1 ;accuracy= 0.375
+c= 64 ;gamma= 0.00048828125 coeff= 1 ;accuracy= 0.375
+c= 0.03125 ;gamma= 0.001953125 coeff= 1 ;accuracy= 0.375
+c= 0.0625 ;gamma= 0.001953125 coeff= 1 ;accuracy= 0.375
+c= 0.125 ;gamma= 0.001953125 coeff= 1 ;accuracy= 0.375
+c= 0.25 ;gamma= 0.001953125 coeff= 1 ;accuracy= 0.375
+c= 0.5 ;gamma= 0.001953125 coeff= 1 ;accuracy= 0.375
+c= 1 ;gamma= 0.001953125 coeff= 1 ;accuracy= 0.375
+c= 2 ;gamma= 0.001953125 coeff= 1 ;accuracy= 0.375
+c= 4 ;gamma= 0.001953125 coeff= 1 ;accuracy= 0.375
+c= 8 ;gamma= 0.001953125 coeff= 1 ;accuracy= 0.375
+c= 16 ;gamma= 0.001953125 coeff= 1 ;accuracy= 0.375
+c= 32 ;gamma= 0.001953125 coeff= 1 ;accuracy= 0.375
+c= 64 ;gamma= 0.001953125 coeff= 1 ;accuracy= 0.375
+c= 0.03125 ;gamma= 0.0078125 coeff= 1 ;accuracy= 0.375
+c= 0.0625 ;gamma= 0.0078125 coeff= 1 ;accuracy= 0.375
+c= 0.125 ;gamma= 0.0078125 coeff= 1 ;accuracy= 0.375
+c= 0.25 ;gamma= 0.0078125 coeff= 1 ;accuracy= 0.375
+c= 0.5 ;gamma= 0.0078125 coeff= 1 ;accuracy= 0.375
+c= 1 ;gamma= 0.0078125 coeff= 1 ;accuracy= 0.375
+c= 2 ;gamma= 0.0078125 coeff= 1 ;accuracy= 0.375
+c= 4 ;gamma= 0.0078125 coeff= 1 ;accuracy= 0.375
+c= 8 ;gamma= 0.0078125 coeff= 1 ;accuracy= 0.375
+c= 16 ;gamma= 0.0078125 coeff= 1 ;accuracy= 0.375
+c= 32 ;gamma= 0.0078125 coeff= 1 ;accuracy= 0.375
+c= 64 ;gamma= 0.0078125 coeff= 1 ;accuracy= 0.375
+c= 0.03125 ;gamma= 0.03125 coeff= 1 ;accuracy= 0.375
+c= 0.0625 ;gamma= 0.03125 coeff= 1 ;accuracy= 0.375
+c= 0.125 ;gamma= 0.03125 coeff= 1 ;accuracy= 0.375
+c= 0.25 ;gamma= 0.03125 coeff= 1 ;accuracy= 0.375
+c= 0.5 ;gamma= 0.03125 coeff= 1 ;accuracy= 0.375
+c= 1 ;gamma= 0.03125 coeff= 1 ;accuracy= 0.375
+c= 2 ;gamma= 0.03125 coeff= 1 ;accuracy= 0.375
+c= 4 ;gamma= 0.03125 coeff= 1 ;accuracy= 0.375
+c= 8 ;gamma= 0.03125 coeff= 1 ;accuracy= 0.375
+c= 16 ;gamma= 0.03125 coeff= 1 ;accuracy= 0.375
+c= 32 ;gamma= 0.03125 coeff= 1 ;accuracy= 0.375
+c= 64 ;gamma= 0.03125 coeff= 1 ;accuracy= 0.375
+c= 0.03125 ;gamma= 0.125 coeff= 1 ;accuracy= 0.375
+c= 0.0625 ;gamma= 0.125 coeff= 1 ;accuracy= 0.375
+c= 0.125 ;gamma= 0.125 coeff= 1 ;accuracy= 0.375
+c= 0.25 ;gamma= 0.125 coeff= 1 ;accuracy= 0.375
+c= 0.5 ;gamma= 0.125 coeff= 1 ;accuracy= 0.375
+c= 1 ;gamma= 0.125 coeff= 1 ;accuracy= 0.375
+c= 2 ;gamma= 0.125 coeff= 1 ;accuracy= 0.375
+c= 4 ;gamma= 0.125 coeff= 1 ;accuracy= 0.375
+c= 8 ;gamma= 0.125 coeff= 1 ;accuracy= 0.375
+c= 16 ;gamma= 0.125 coeff= 1 ;accuracy= 0.375
+c= 32 ;gamma= 0.125 coeff= 1 ;accuracy= 0.375
+c= 64 ;gamma= 0.125 coeff= 1 ;accuracy= 0.375
+c= 0.03125 ;gamma= 0.5 coeff= 1 ;accuracy= 0.375
+c= 0.0625 ;gamma= 0.5 coeff= 1 ;accuracy= 0.375
+c= 0.125 ;gamma= 0.5 coeff= 1 ;accuracy= 0.375
+c= 0.25 ;gamma= 0.5 coeff= 1 ;accuracy= 0.375
+c= 0.5 ;gamma= 0.5 coeff= 1 ;accuracy= 0.375
+c= 1 ;gamma= 0.5 coeff= 1 ;accuracy= 0.375
+c= 2 ;gamma= 0.5 coeff= 1 ;accuracy= 0.375
+c= 4 ;gamma= 0.5 coeff= 1 ;accuracy= 0.375
+c= 8 ;gamma= 0.5 coeff= 1 ;accuracy= 0.375
+c= 16 ;gamma= 0.5 coeff= 1 ;accuracy= 0.375
+c= 32 ;gamma= 0.5 coeff= 1 ;accuracy= 0.375
+c= 64 ;gamma= 0.5 coeff= 1 ;accuracy= 0.375
+c= 0.03125 ;gamma= 2 coeff= 1 ;accuracy= 0.375
+c= 0.0625 ;gamma= 2 coeff= 1 ;accuracy= 0.375
+c= 0.125 ;gamma= 2 coeff= 1 ;accuracy= 0.375
+c= 0.25 ;gamma= 2 coeff= 1 ;accuracy= 0.375
+c= 0.5 ;gamma= 2 coeff= 1 ;accuracy= 0.375
+c= 1 ;gamma= 2 coeff= 1 ;accuracy= 0.375
+c= 2 ;gamma= 2 coeff= 1 ;accuracy= 0.375
+c= 4 ;gamma= 2 coeff= 1 ;accuracy= 0.375
+c= 8 ;gamma= 2 coeff= 1 ;accuracy= 0.375
+c= 16 ;gamma= 2 coeff= 1 ;accuracy= 0.375
+c= 32 ;gamma= 2 coeff= 1 ;accuracy= 0.375
+c= 64 ;gamma= 2 coeff= 1 ;accuracy= 0.375
+c= 0.03125 ;gamma= 8 coeff= 1 ;accuracy= 0.375
+c= 0.0625 ;gamma= 8 coeff= 1 ;accuracy= 0.375
+c= 0.125 ;gamma= 8 coeff= 1 ;accuracy= 0.375
+c= 0.25 ;gamma= 8 coeff= 1 ;accuracy= 0.375
+c= 0.5 ;gamma= 8 coeff= 1 ;accuracy= 0.375
+c= 1 ;gamma= 8 coeff= 1 ;accuracy= 0.375
+c= 2 ;gamma= 8 coeff= 1 ;accuracy= 0.375
+c= 4 ;gamma= 8 coeff= 1 ;accuracy= 0.375
+c= 8 ;gamma= 8 coeff= 1 ;accuracy= 0.375
+c= 16 ;gamma= 8 coeff= 1 ;accuracy= 0.375
+c= 32 ;gamma= 8 coeff= 1 ;accuracy= 0.375
+c= 64 ;gamma= 8 coeff= 1 ;accuracy= 0.375
+c= 0.03125 ;gamma= 32 coeff= 1 ;accuracy= 0.375
+c= 0.0625 ;gamma= 32 coeff= 1 ;accuracy= 0.375
+c= 0.125 ;gamma= 32 coeff= 1 ;accuracy= 0.375
+c= 0.25 ;gamma= 32 coeff= 1 ;accuracy= 0.375
+c= 0.5 ;gamma= 32 coeff= 1 ;accuracy= 0.375
+c= 1 ;gamma= 32 coeff= 1 ;accuracy= 0.375
+c= 2 ;gamma= 32 coeff= 1 ;accuracy= 0.375
+c= 4 ;gamma= 32 coeff= 1 ;accuracy= 0.375
+c= 8 ;gamma= 32 coeff= 1 ;accuracy= 0.375
+c= 16 ;gamma= 32 coeff= 1 ;accuracy= 0.375
+c= 32 ;gamma= 32 coeff= 1 ;accuracy= 0.375
+c= 64 ;gamma= 32 coeff= 1 ;accuracy= 0.375
+c= 0.03125 ;gamma= 3.0517578125e-05 coeff= 0.9 ;accuracy= 0.375
+c= 0.0625 ;gamma= 3.0517578125e-05 coeff= 0.9 ;accuracy= 0.375
+c= 0.125 ;gamma= 3.0517578125e-05 coeff= 0.9 ;accuracy= 0.375
+c= 0.25 ;gamma= 3.0517578125e-05 coeff= 0.9 ;accuracy= 0.375
+c= 0.5 ;gamma= 3.0517578125e-05 coeff= 0.9 ;accuracy= 0.375
+c= 1 ;gamma= 3.0517578125e-05 coeff= 0.9 ;accuracy= 0.375
+c= 2 ;gamma= 3.0517578125e-05 coeff= 0.9 ;accuracy= 0.375
+c= 4 ;gamma= 3.0517578125e-05 coeff= 0.9 ;accuracy= 0.375
+c= 8 ;gamma= 3.0517578125e-05 coeff= 0.9 ;accuracy= 0.375
+c= 16 ;gamma= 3.0517578125e-05 coeff= 0.9 ;accuracy= 0.375
+c= 32 ;gamma= 3.0517578125e-05 coeff= 0.9 ;accuracy= 0.375
+c= 64 ;gamma= 3.0517578125e-05 coeff= 0.9 ;accuracy= 0.375
+c= 0.03125 ;gamma= 0.0001220703125 coeff= 0.9 ;accuracy= 0.375
+c= 0.0625 ;gamma= 0.0001220703125 coeff= 0.9 ;accuracy= 0.375
+c= 0.125 ;gamma= 0.0001220703125 coeff= 0.9 ;accuracy= 0.375
+c= 0.25 ;gamma= 0.0001220703125 coeff= 0.9 ;accuracy= 0.375
+c= 0.5 ;gamma= 0.0001220703125 coeff= 0.9 ;accuracy= 0.375
+c= 1 ;gamma= 0.0001220703125 coeff= 0.9 ;accuracy= 0.375
+c= 2 ;gamma= 0.0001220703125 coeff= 0.9 ;accuracy= 0.375
+c= 4 ;gamma= 0.0001220703125 coeff= 0.9 ;accuracy= 0.375
+c= 8 ;gamma= 0.0001220703125 coeff= 0.9 ;accuracy= 0.375
+c= 16 ;gamma= 0.0001220703125 coeff= 0.9 ;accuracy= 0.375
+c= 32 ;gamma= 0.0001220703125 coeff= 0.9 ;accuracy= 0.375
+c= 64 ;gamma= 0.0001220703125 coeff= 0.9 ;accuracy= 0.375
+c= 0.03125 ;gamma= 0.00048828125 coeff= 0.9 ;accuracy= 0.375
+c= 0.0625 ;gamma= 0.00048828125 coeff= 0.9 ;accuracy= 0.375
+c= 0.125 ;gamma= 0.00048828125 coeff= 0.9 ;accuracy= 0.375
+c= 0.25 ;gamma= 0.00048828125 coeff= 0.9 ;accuracy= 0.375
+c= 0.5 ;gamma= 0.00048828125 coeff= 0.9 ;accuracy= 0.375
+c= 1 ;gamma= 0.00048828125 coeff= 0.9 ;accuracy= 0.375
+c= 2 ;gamma= 0.00048828125 coeff= 0.9 ;accuracy= 0.375
+c= 4 ;gamma= 0.00048828125 coeff= 0.9 ;accuracy= 0.375
+c= 8 ;gamma= 0.00048828125 coeff= 0.9 ;accuracy= 0.375
+c= 16 ;gamma= 0.00048828125 coeff= 0.9 ;accuracy= 0.375
+c= 32 ;gamma= 0.00048828125 coeff= 0.9 ;accuracy= 0.375
+c= 64 ;gamma= 0.00048828125 coeff= 0.9 ;accuracy= 0.375
+c= 0.03125 ;gamma= 0.001953125 coeff= 0.9 ;accuracy= 0.375
+c= 0.0625 ;gamma= 0.001953125 coeff= 0.9 ;accuracy= 0.375
+c= 0.125 ;gamma= 0.001953125 coeff= 0.9 ;accuracy= 0.375
+c= 0.25 ;gamma= 0.001953125 coeff= 0.9 ;accuracy= 0.375
+c= 0.5 ;gamma= 0.001953125 coeff= 0.9 ;accuracy= 0.375
+c= 1 ;gamma= 0.001953125 coeff= 0.9 ;accuracy= 0.375
+c= 2 ;gamma= 0.001953125 coeff= 0.9 ;accuracy= 0.375
+c= 4 ;gamma= 0.001953125 coeff= 0.9 ;accuracy= 0.375
+c= 8 ;gamma= 0.001953125 coeff= 0.9 ;accuracy= 0.375
+c= 16 ;gamma= 0.001953125 coeff= 0.9 ;accuracy= 0.375
+c= 32 ;gamma= 0.001953125 coeff= 0.9 ;accuracy= 0.375
+c= 64 ;gamma= 0.001953125 coeff= 0.9 ;accuracy= 0.375
+c= 0.03125 ;gamma= 0.0078125 coeff= 0.9 ;accuracy= 0.375
+c= 0.0625 ;gamma= 0.0078125 coeff= 0.9 ;accuracy= 0.375
+c= 0.125 ;gamma= 0.0078125 coeff= 0.9 ;accuracy= 0.375
+c= 0.25 ;gamma= 0.0078125 coeff= 0.9 ;accuracy= 0.375
+c= 0.5 ;gamma= 0.0078125 coeff= 0.9 ;accuracy= 0.375
+c= 1 ;gamma= 0.0078125 coeff= 0.9 ;accuracy= 0.375
+c= 2 ;gamma= 0.0078125 coeff= 0.9 ;accuracy= 0.375
+c= 4 ;gamma= 0.0078125 coeff= 0.9 ;accuracy= 0.375
+c= 8 ;gamma= 0.0078125 coeff= 0.9 ;accuracy= 0.375
+c= 16 ;gamma= 0.0078125 coeff= 0.9 ;accuracy= 0.375
+c= 32 ;gamma= 0.0078125 coeff= 0.9 ;accuracy= 0.375
+c= 64 ;gamma= 0.0078125 coeff= 0.9 ;accuracy= 0.375
+c= 0.03125 ;gamma= 0.03125 coeff= 0.9 ;accuracy= 0.375
+c= 0.0625 ;gamma= 0.03125 coeff= 0.9 ;accuracy= 0.375
+c= 0.125 ;gamma= 0.03125 coeff= 0.9 ;accuracy= 0.375
+c= 0.25 ;gamma= 0.03125 coeff= 0.9 ;accuracy= 0.375
+c= 0.5 ;gamma= 0.03125 coeff= 0.9 ;accuracy= 0.375
+c= 1 ;gamma= 0.03125 coeff= 0.9 ;accuracy= 0.375
+c= 2 ;gamma= 0.03125 coeff= 0.9 ;accuracy= 0.375
+c= 4 ;gamma= 0.03125 coeff= 0.9 ;accuracy= 0.375
+c= 8 ;gamma= 0.03125 coeff= 0.9 ;accuracy= 0.375
+c= 16 ;gamma= 0.03125 coeff= 0.9 ;accuracy= 0.375
+c= 32 ;gamma= 0.03125 coeff= 0.9 ;accuracy= 0.375
+c= 64 ;gamma= 0.03125 coeff= 0.9 ;accuracy= 0.375
+c= 0.03125 ;gamma= 0.125 coeff= 0.9 ;accuracy= 0.375
+c= 0.0625 ;gamma= 0.125 coeff= 0.9 ;accuracy= 0.375
+c= 0.125 ;gamma= 0.125 coeff= 0.9 ;accuracy= 0.375
+c= 0.25 ;gamma= 0.125 coeff= 0.9 ;accuracy= 0.375
+c= 0.5 ;gamma= 0.125 coeff= 0.9 ;accuracy= 0.375
+c= 1 ;gamma= 0.125 coeff= 0.9 ;accuracy= 0.375
+c= 2 ;gamma= 0.125 coeff= 0.9 ;accuracy= 0.375
+c= 4 ;gamma= 0.125 coeff= 0.9 ;accuracy= 0.375
+c= 8 ;gamma= 0.125 coeff= 0.9 ;accuracy= 0.375
+c= 16 ;gamma= 0.125 coeff= 0.9 ;accuracy= 0.375
+c= 32 ;gamma= 0.125 coeff= 0.9 ;accuracy= 0.375
+c= 64 ;gamma= 0.125 coeff= 0.9 ;accuracy= 0.375
+c= 0.03125 ;gamma= 0.5 coeff= 0.9 ;accuracy= 0.375
+c= 0.0625 ;gamma= 0.5 coeff= 0.9 ;accuracy= 0.375
+c= 0.125 ;gamma= 0.5 coeff= 0.9 ;accuracy= 0.375
+c= 0.25 ;gamma= 0.5 coeff= 0.9 ;accuracy= 0.375
+c= 0.5 ;gamma= 0.5 coeff= 0.9 ;accuracy= 0.375
+c= 1 ;gamma= 0.5 coeff= 0.9 ;accuracy= 0.375
+c= 2 ;gamma= 0.5 coeff= 0.9 ;accuracy= 0.375
+c= 4 ;gamma= 0.5 coeff= 0.9 ;accuracy= 0.375
+c= 8 ;gamma= 0.5 coeff= 0.9 ;accuracy= 0.375
+c= 16 ;gamma= 0.5 coeff= 0.9 ;accuracy= 0.375
+c= 32 ;gamma= 0.5 coeff= 0.9 ;accuracy= 0.375
+c= 64 ;gamma= 0.5 coeff= 0.9 ;accuracy= 0.375
+c= 0.03125 ;gamma= 2 coeff= 0.9 ;accuracy= 0.375
+c= 0.0625 ;gamma= 2 coeff= 0.9 ;accuracy= 0.375
+c= 0.125 ;gamma= 2 coeff= 0.9 ;accuracy= 0.375
+c= 0.25 ;gamma= 2 coeff= 0.9 ;accuracy= 0.375
+c= 0.5 ;gamma= 2 coeff= 0.9 ;accuracy= 0.375
+c= 1 ;gamma= 2 coeff= 0.9 ;accuracy= 0.375
+c= 2 ;gamma= 2 coeff= 0.9 ;accuracy= 0.375
+c= 4 ;gamma= 2 coeff= 0.9 ;accuracy= 0.375
+c= 8 ;gamma= 2 coeff= 0.9 ;accuracy= 0.375
+c= 16 ;gamma= 2 coeff= 0.9 ;accuracy= 0.375
+c= 32 ;gamma= 2 coeff= 0.9 ;accuracy= 0.375
+c= 64 ;gamma= 2 coeff= 0.9 ;accuracy= 0.375
+c= 0.03125 ;gamma= 8 coeff= 0.9 ;accuracy= 0.375
+c= 0.0625 ;gamma= 8 coeff= 0.9 ;accuracy= 0.375
+c= 0.125 ;gamma= 8 coeff= 0.9 ;accuracy= 0.375
+c= 0.25 ;gamma= 8 coeff= 0.9 ;accuracy= 0.375
+c= 0.5 ;gamma= 8 coeff= 0.9 ;accuracy= 0.375
+c= 1 ;gamma= 8 coeff= 0.9 ;accuracy= 0.375
+c= 2 ;gamma= 8 coeff= 0.9 ;accuracy= 0.375
+c= 4 ;gamma= 8 coeff= 0.9 ;accuracy= 0.375
+c= 8 ;gamma= 8 coeff= 0.9 ;accuracy= 0.375
+c= 16 ;gamma= 8 coeff= 0.9 ;accuracy= 0.375
+c= 32 ;gamma= 8 coeff= 0.9 ;accuracy= 0.375
+c= 64 ;gamma= 8 coeff= 0.9 ;accuracy= 0.375
+c= 0.03125 ;gamma= 32 coeff= 0.9 ;accuracy= 0.375
+c= 0.0625 ;gamma= 32 coeff= 0.9 ;accuracy= 0.375
+c= 0.125 ;gamma= 32 coeff= 0.9 ;accuracy= 0.375
+c= 0.25 ;gamma= 32 coeff= 0.9 ;accuracy= 0.375
+c= 0.5 ;gamma= 32 coeff= 0.9 ;accuracy= 0.375
+c= 1 ;gamma= 32 coeff= 0.9 ;accuracy= 0.375
+c= 2 ;gamma= 32 coeff= 0.9 ;accuracy= 0.375
+c= 4 ;gamma= 32 coeff= 0.9 ;accuracy= 0.375
+c= 8 ;gamma= 32 coeff= 0.9 ;accuracy= 0.375
+c= 16 ;gamma= 32 coeff= 0.9 ;accuracy= 0.375
+c= 32 ;gamma= 32 coeff= 0.9 ;accuracy= 0.375
+c= 64 ;gamma= 32 coeff= 0.9 ;accuracy= 0.375
+c= 0.03125 ;gamma= 3.0517578125e-05 coeff= 0.8 ;accuracy= 0.375
+c= 0.0625 ;gamma= 3.0517578125e-05 coeff= 0.8 ;accuracy= 0.375
+c= 0.125 ;gamma= 3.0517578125e-05 coeff= 0.8 ;accuracy= 0.375
+c= 0.25 ;gamma= 3.0517578125e-05 coeff= 0.8 ;accuracy= 0.375
+c= 0.5 ;gamma= 3.0517578125e-05 coeff= 0.8 ;accuracy= 0.375
+c= 1 ;gamma= 3.0517578125e-05 coeff= 0.8 ;accuracy= 0.375
+c= 2 ;gamma= 3.0517578125e-05 coeff= 0.8 ;accuracy= 0.375
+c= 4 ;gamma= 3.0517578125e-05 coeff= 0.8 ;accuracy= 0.375
+c= 8 ;gamma= 3.0517578125e-05 coeff= 0.8 ;accuracy= 0.375
+c= 16 ;gamma= 3.0517578125e-05 coeff= 0.8 ;accuracy= 0.375
+c= 32 ;gamma= 3.0517578125e-05 coeff= 0.8 ;accuracy= 0.375
+c= 64 ;gamma= 3.0517578125e-05 coeff= 0.8 ;accuracy= 0.375
+c= 0.03125 ;gamma= 0.0001220703125 coeff= 0.8 ;accuracy= 0.375
+c= 0.0625 ;gamma= 0.0001220703125 coeff= 0.8 ;accuracy= 0.375
+c= 0.125 ;gamma= 0.0001220703125 coeff= 0.8 ;accuracy= 0.375
+c= 0.25 ;gamma= 0.0001220703125 coeff= 0.8 ;accuracy= 0.375
+c= 0.5 ;gamma= 0.0001220703125 coeff= 0.8 ;accuracy= 0.375
+c= 1 ;gamma= 0.0001220703125 coeff= 0.8 ;accuracy= 0.375
+c= 2 ;gamma= 0.0001220703125 coeff= 0.8 ;accuracy= 0.375
+c= 4 ;gamma= 0.0001220703125 coeff= 0.8 ;accuracy= 0.375
+c= 8 ;gamma= 0.0001220703125 coeff= 0.8 ;accuracy= 0.375
+c= 16 ;gamma= 0.0001220703125 coeff= 0.8 ;accuracy= 0.375
+c= 32 ;gamma= 0.0001220703125 coeff= 0.8 ;accuracy= 0.375
+c= 64 ;gamma= 0.0001220703125 coeff= 0.8 ;accuracy= 0.375
+c= 0.03125 ;gamma= 0.00048828125 coeff= 0.8 ;accuracy= 0.375
+c= 0.0625 ;gamma= 0.00048828125 coeff= 0.8 ;accuracy= 0.375
+c= 0.125 ;gamma= 0.00048828125 coeff= 0.8 ;accuracy= 0.375
+c= 0.25 ;gamma= 0.00048828125 coeff= 0.8 ;accuracy= 0.375
+c= 0.5 ;gamma= 0.00048828125 coeff= 0.8 ;accuracy= 0.375
+c= 1 ;gamma= 0.00048828125 coeff= 0.8 ;accuracy= 0.375
+c= 2 ;gamma= 0.00048828125 coeff= 0.8 ;accuracy= 0.375
+c= 4 ;gamma= 0.00048828125 coeff= 0.8 ;accuracy= 0.375
+c= 8 ;gamma= 0.00048828125 coeff= 0.8 ;accuracy= 0.375
+c= 16 ;gamma= 0.00048828125 coeff= 0.8 ;accuracy= 0.375
+c= 32 ;gamma= 0.00048828125 coeff= 0.8 ;accuracy= 0.375
+c= 64 ;gamma= 0.00048828125 coeff= 0.8 ;accuracy= 0.375
+c= 0.03125 ;gamma= 0.001953125 coeff= 0.8 ;accuracy= 0.375
+c= 0.0625 ;gamma= 0.001953125 coeff= 0.8 ;accuracy= 0.375
+c= 0.125 ;gamma= 0.001953125 coeff= 0.8 ;accuracy= 0.375
+c= 0.25 ;gamma= 0.001953125 coeff= 0.8 ;accuracy= 0.375
+c= 0.5 ;gamma= 0.001953125 coeff= 0.8 ;accuracy= 0.375
+c= 1 ;gamma= 0.001953125 coeff= 0.8 ;accuracy= 0.375
+c= 2 ;gamma= 0.001953125 coeff= 0.8 ;accuracy= 0.375
+c= 4 ;gamma= 0.001953125 coeff= 0.8 ;accuracy= 0.375
+c= 8 ;gamma= 0.001953125 coeff= 0.8 ;accuracy= 0.375
+c= 16 ;gamma= 0.001953125 coeff= 0.8 ;accuracy= 0.375
+c= 32 ;gamma= 0.001953125 coeff= 0.8 ;accuracy= 0.375
+c= 64 ;gamma= 0.001953125 coeff= 0.8 ;accuracy= 0.375
+c= 0.03125 ;gamma= 0.0078125 coeff= 0.8 ;accuracy= 0.375
+c= 0.0625 ;gamma= 0.0078125 coeff= 0.8 ;accuracy= 0.375
+c= 0.125 ;gamma= 0.0078125 coeff= 0.8 ;accuracy= 0.375
+c= 0.25 ;gamma= 0.0078125 coeff= 0.8 ;accuracy= 0.375
+c= 0.5 ;gamma= 0.0078125 coeff= 0.8 ;accuracy= 0.375
+c= 1 ;gamma= 0.0078125 coeff= 0.8 ;accuracy= 0.375
+c= 2 ;gamma= 0.0078125 coeff= 0.8 ;accuracy= 0.375
+c= 4 ;gamma= 0.0078125 coeff= 0.8 ;accuracy= 0.375
+c= 8 ;gamma= 0.0078125 coeff= 0.8 ;accuracy= 0.375
+c= 16 ;gamma= 0.0078125 coeff= 0.8 ;accuracy= 0.375
+c= 32 ;gamma= 0.0078125 coeff= 0.8 ;accuracy= 0.375
+c= 64 ;gamma= 0.0078125 coeff= 0.8 ;accuracy= 0.375
+c= 0.03125 ;gamma= 0.03125 coeff= 0.8 ;accuracy= 0.375
+c= 0.0625 ;gamma= 0.03125 coeff= 0.8 ;accuracy= 0.375
+c= 0.125 ;gamma= 0.03125 coeff= 0.8 ;accuracy= 0.375
+c= 0.25 ;gamma= 0.03125 coeff= 0.8 ;accuracy= 0.375
+c= 0.5 ;gamma= 0.03125 coeff= 0.8 ;accuracy= 0.375
+c= 1 ;gamma= 0.03125 coeff= 0.8 ;accuracy= 0.375
+c= 2 ;gamma= 0.03125 coeff= 0.8 ;accuracy= 0.375
+c= 4 ;gamma= 0.03125 coeff= 0.8 ;accuracy= 0.375
+c= 8 ;gamma= 0.03125 coeff= 0.8 ;accuracy= 0.375
+c= 16 ;gamma= 0.03125 coeff= 0.8 ;accuracy= 0.375
+c= 32 ;gamma= 0.03125 coeff= 0.8 ;accuracy= 0.375
+c= 64 ;gamma= 0.03125 coeff= 0.8 ;accuracy= 0.375
+c= 0.03125 ;gamma= 0.125 coeff= 0.8 ;accuracy= 0.375
+c= 0.0625 ;gamma= 0.125 coeff= 0.8 ;accuracy= 0.375
+c= 0.125 ;gamma= 0.125 coeff= 0.8 ;accuracy= 0.375
+c= 0.25 ;gamma= 0.125 coeff= 0.8 ;accuracy= 0.375
+c= 0.5 ;gamma= 0.125 coeff= 0.8 ;accuracy= 0.375
+c= 1 ;gamma= 0.125 coeff= 0.8 ;accuracy= 0.375
+c= 2 ;gamma= 0.125 coeff= 0.8 ;accuracy= 0.375
+c= 4 ;gamma= 0.125 coeff= 0.8 ;accuracy= 0.375
+c= 8 ;gamma= 0.125 coeff= 0.8 ;accuracy= 0.375
+c= 16 ;gamma= 0.125 coeff= 0.8 ;accuracy= 0.375
+c= 32 ;gamma= 0.125 coeff= 0.8 ;accuracy= 0.375
+c= 64 ;gamma= 0.125 coeff= 0.8 ;accuracy= 0.375
+c= 0.03125 ;gamma= 0.5 coeff= 0.8 ;accuracy= 0.375
+c= 0.0625 ;gamma= 0.5 coeff= 0.8 ;accuracy= 0.375
+c= 0.125 ;gamma= 0.5 coeff= 0.8 ;accuracy= 0.375
+c= 0.25 ;gamma= 0.5 coeff= 0.8 ;accuracy= 0.375
+c= 0.5 ;gamma= 0.5 coeff= 0.8 ;accuracy= 0.375
+c= 1 ;gamma= 0.5 coeff= 0.8 ;accuracy= 0.375
+c= 2 ;gamma= 0.5 coeff= 0.8 ;accuracy= 0.375
+c= 4 ;gamma= 0.5 coeff= 0.8 ;accuracy= 0.375
+c= 8 ;gamma= 0.5 coeff= 0.8 ;accuracy= 0.375
+c= 16 ;gamma= 0.5 coeff= 0.8 ;accuracy= 0.375
+c= 32 ;gamma= 0.5 coeff= 0.8 ;accuracy= 0.375
+c= 64 ;gamma= 0.5 coeff= 0.8 ;accuracy= 0.375
+c= 0.03125 ;gamma= 2 coeff= 0.8 ;accuracy= 0.375
+c= 0.0625 ;gamma= 2 coeff= 0.8 ;accuracy= 0.375
+c= 0.125 ;gamma= 2 coeff= 0.8 ;accuracy= 0.375
+c= 0.25 ;gamma= 2 coeff= 0.8 ;accuracy= 0.375
+c= 0.5 ;gamma= 2 coeff= 0.8 ;accuracy= 0.375
+c= 1 ;gamma= 2 coeff= 0.8 ;accuracy= 0.375
+c= 2 ;gamma= 2 coeff= 0.8 ;accuracy= 0.375
+c= 4 ;gamma= 2 coeff= 0.8 ;accuracy= 0.375
+c= 8 ;gamma= 2 coeff= 0.8 ;accuracy= 0.375
+c= 16 ;gamma= 2 coeff= 0.8 ;accuracy= 0.375
+c= 32 ;gamma= 2 coeff= 0.8 ;accuracy= 0.375
+c= 64 ;gamma= 2 coeff= 0.8 ;accuracy= 0.375
+c= 0.03125 ;gamma= 8 coeff= 0.8 ;accuracy= 0.375
+c= 0.0625 ;gamma= 8 coeff= 0.8 ;accuracy= 0.375
+c= 0.125 ;gamma= 8 coeff= 0.8 ;accuracy= 0.375
+c= 0.25 ;gamma= 8 coeff= 0.8 ;accuracy= 0.375
+c= 0.5 ;gamma= 8 coeff= 0.8 ;accuracy= 0.375
+c= 1 ;gamma= 8 coeff= 0.8 ;accuracy= 0.375
+c= 2 ;gamma= 8 coeff= 0.8 ;accuracy= 0.375
+c= 4 ;gamma= 8 coeff= 0.8 ;accuracy= 0.375
+c= 8 ;gamma= 8 coeff= 0.8 ;accuracy= 0.375
+c= 16 ;gamma= 8 coeff= 0.8 ;accuracy= 0.375
+c= 32 ;gamma= 8 coeff= 0.8 ;accuracy= 0.375
+c= 64 ;gamma= 8 coeff= 0.8 ;accuracy= 0.375
+c= 0.03125 ;gamma= 32 coeff= 0.8 ;accuracy= 0.375
+c= 0.0625 ;gamma= 32 coeff= 0.8 ;accuracy= 0.375
+c= 0.125 ;gamma= 32 coeff= 0.8 ;accuracy= 0.375
+c= 0.25 ;gamma= 32 coeff= 0.8 ;accuracy= 0.375
+c= 0.5 ;gamma= 32 coeff= 0.8 ;accuracy= 0.375
+c= 1 ;gamma= 32 coeff= 0.8 ;accuracy= 0.375
+c= 2 ;gamma= 32 coeff= 0.8 ;accuracy= 0.375
+c= 4 ;gamma= 32 coeff= 0.8 ;accuracy= 0.375
+c= 8 ;gamma= 32 coeff= 0.8 ;accuracy= 0.375
+c= 16 ;gamma= 32 coeff= 0.8 ;accuracy= 0.375
+c= 32 ;gamma= 32 coeff= 0.8 ;accuracy= 0.375
+c= 64 ;gamma= 32 coeff= 0.8 ;accuracy= 0.375
+c= 0.03125 ;gamma= 3.0517578125e-05 coeff= 0.7 ;accuracy= 0.375
+c= 0.0625 ;gamma= 3.0517578125e-05 coeff= 0.7 ;accuracy= 0.375
+c= 0.125 ;gamma= 3.0517578125e-05 coeff= 0.7 ;accuracy= 0.375
+c= 0.25 ;gamma= 3.0517578125e-05 coeff= 0.7 ;accuracy= 0.375
+c= 0.5 ;gamma= 3.0517578125e-05 coeff= 0.7 ;accuracy= 0.375
+c= 1 ;gamma= 3.0517578125e-05 coeff= 0.7 ;accuracy= 0.375
+c= 2 ;gamma= 3.0517578125e-05 coeff= 0.7 ;accuracy= 0.375
+c= 4 ;gamma= 3.0517578125e-05 coeff= 0.7 ;accuracy= 0.375
+c= 8 ;gamma= 3.0517578125e-05 coeff= 0.7 ;accuracy= 0.375
+c= 16 ;gamma= 3.0517578125e-05 coeff= 0.7 ;accuracy= 0.375
+c= 32 ;gamma= 3.0517578125e-05 coeff= 0.7 ;accuracy= 0.375
+c= 64 ;gamma= 3.0517578125e-05 coeff= 0.7 ;accuracy= 0.375
+c= 0.03125 ;gamma= 0.0001220703125 coeff= 0.7 ;accuracy= 0.375
+c= 0.0625 ;gamma= 0.0001220703125 coeff= 0.7 ;accuracy= 0.375
+c= 0.125 ;gamma= 0.0001220703125 coeff= 0.7 ;accuracy= 0.375
+c= 0.25 ;gamma= 0.0001220703125 coeff= 0.7 ;accuracy= 0.375
+c= 0.5 ;gamma= 0.0001220703125 coeff= 0.7 ;accuracy= 0.375
+c= 1 ;gamma= 0.0001220703125 coeff= 0.7 ;accuracy= 0.375
+c= 2 ;gamma= 0.0001220703125 coeff= 0.7 ;accuracy= 0.375
+c= 4 ;gamma= 0.0001220703125 coeff= 0.7 ;accuracy= 0.375
+c= 8 ;gamma= 0.0001220703125 coeff= 0.7 ;accuracy= 0.375
+c= 16 ;gamma= 0.0001220703125 coeff= 0.7 ;accuracy= 0.375
+c= 32 ;gamma= 0.0001220703125 coeff= 0.7 ;accuracy= 0.375
+c= 64 ;gamma= 0.0001220703125 coeff= 0.7 ;accuracy= 0.375
+c= 0.03125 ;gamma= 0.00048828125 coeff= 0.7 ;accuracy= 0.375
+c= 0.0625 ;gamma= 0.00048828125 coeff= 0.7 ;accuracy= 0.375
+c= 0.125 ;gamma= 0.00048828125 coeff= 0.7 ;accuracy= 0.375
+c= 0.25 ;gamma= 0.00048828125 coeff= 0.7 ;accuracy= 0.375
+c= 0.5 ;gamma= 0.00048828125 coeff= 0.7 ;accuracy= 0.375
+c= 1 ;gamma= 0.00048828125 coeff= 0.7 ;accuracy= 0.375
+c= 2 ;gamma= 0.00048828125 coeff= 0.7 ;accuracy= 0.375
+c= 4 ;gamma= 0.00048828125 coeff= 0.7 ;accuracy= 0.375
+c= 8 ;gamma= 0.00048828125 coeff= 0.7 ;accuracy= 0.375
+c= 16 ;gamma= 0.00048828125 coeff= 0.7 ;accuracy= 0.375
+c= 32 ;gamma= 0.00048828125 coeff= 0.7 ;accuracy= 0.375
+c= 64 ;gamma= 0.00048828125 coeff= 0.7 ;accuracy= 0.375
+c= 0.03125 ;gamma= 0.001953125 coeff= 0.7 ;accuracy= 0.375
+c= 0.0625 ;gamma= 0.001953125 coeff= 0.7 ;accuracy= 0.375
+c= 0.125 ;gamma= 0.001953125 coeff= 0.7 ;accuracy= 0.375
+c= 0.25 ;gamma= 0.001953125 coeff= 0.7 ;accuracy= 0.375
+c= 0.5 ;gamma= 0.001953125 coeff= 0.7 ;accuracy= 0.375
+c= 1 ;gamma= 0.001953125 coeff= 0.7 ;accuracy= 0.375
+c= 2 ;gamma= 0.001953125 coeff= 0.7 ;accuracy= 0.375
+c= 4 ;gamma= 0.001953125 coeff= 0.7 ;accuracy= 0.375
+c= 8 ;gamma= 0.001953125 coeff= 0.7 ;accuracy= 0.375
+c= 16 ;gamma= 0.001953125 coeff= 0.7 ;accuracy= 0.375
+c= 32 ;gamma= 0.001953125 coeff= 0.7 ;accuracy= 0.375
+c= 64 ;gamma= 0.001953125 coeff= 0.7 ;accuracy= 0.375
+c= 0.03125 ;gamma= 0.0078125 coeff= 0.7 ;accuracy= 0.375
+c= 0.0625 ;gamma= 0.0078125 coeff= 0.7 ;accuracy= 0.375
+c= 0.125 ;gamma= 0.0078125 coeff= 0.7 ;accuracy= 0.375
+c= 0.25 ;gamma= 0.0078125 coeff= 0.7 ;accuracy= 0.375
+c= 0.5 ;gamma= 0.0078125 coeff= 0.7 ;accuracy= 0.375
+c= 1 ;gamma= 0.0078125 coeff= 0.7 ;accuracy= 0.375
+c= 2 ;gamma= 0.0078125 coeff= 0.7 ;accuracy= 0.375
+c= 4 ;gamma= 0.0078125 coeff= 0.7 ;accuracy= 0.375
+c= 8 ;gamma= 0.0078125 coeff= 0.7 ;accuracy= 0.375
+c= 16 ;gamma= 0.0078125 coeff= 0.7 ;accuracy= 0.375
+c= 32 ;gamma= 0.0078125 coeff= 0.7 ;accuracy= 0.375
+c= 64 ;gamma= 0.0078125 coeff= 0.7 ;accuracy= 0.375
+c= 0.03125 ;gamma= 0.03125 coeff= 0.7 ;accuracy= 0.375
+c= 0.0625 ;gamma= 0.03125 coeff= 0.7 ;accuracy= 0.375
+c= 0.125 ;gamma= 0.03125 coeff= 0.7 ;accuracy= 0.375
+c= 0.25 ;gamma= 0.03125 coeff= 0.7 ;accuracy= 0.375
+c= 0.5 ;gamma= 0.03125 coeff= 0.7 ;accuracy= 0.375
+c= 1 ;gamma= 0.03125 coeff= 0.7 ;accuracy= 0.375
+c= 2 ;gamma= 0.03125 coeff= 0.7 ;accuracy= 0.375
+c= 4 ;gamma= 0.03125 coeff= 0.7 ;accuracy= 0.375
+c= 8 ;gamma= 0.03125 coeff= 0.7 ;accuracy= 0.375
+c= 16 ;gamma= 0.03125 coeff= 0.7 ;accuracy= 0.375
+c= 32 ;gamma= 0.03125 coeff= 0.7 ;accuracy= 0.375
+c= 64 ;gamma= 0.03125 coeff= 0.7 ;accuracy= 0.375
+c= 0.03125 ;gamma= 0.125 coeff= 0.7 ;accuracy= 0.375
+c= 0.0625 ;gamma= 0.125 coeff= 0.7 ;accuracy= 0.375
+c= 0.125 ;gamma= 0.125 coeff= 0.7 ;accuracy= 0.375
+c= 0.25 ;gamma= 0.125 coeff= 0.7 ;accuracy= 0.375
+c= 0.5 ;gamma= 0.125 coeff= 0.7 ;accuracy= 0.375
+c= 1 ;gamma= 0.125 coeff= 0.7 ;accuracy= 0.375
+c= 2 ;gamma= 0.125 coeff= 0.7 ;accuracy= 0.375
+c= 4 ;gamma= 0.125 coeff= 0.7 ;accuracy= 0.375
+c= 8 ;gamma= 0.125 coeff= 0.7 ;accuracy= 0.375
+c= 16 ;gamma= 0.125 coeff= 0.7 ;accuracy= 0.375
+c= 32 ;gamma= 0.125 coeff= 0.7 ;accuracy= 0.375
+c= 64 ;gamma= 0.125 coeff= 0.7 ;accuracy= 0.375
+c= 0.03125 ;gamma= 0.5 coeff= 0.7 ;accuracy= 0.375
+c= 0.0625 ;gamma= 0.5 coeff= 0.7 ;accuracy= 0.375
+c= 0.125 ;gamma= 0.5 coeff= 0.7 ;accuracy= 0.375
+c= 0.25 ;gamma= 0.5 coeff= 0.7 ;accuracy= 0.375
+c= 0.5 ;gamma= 0.5 coeff= 0.7 ;accuracy= 0.375
+c= 1 ;gamma= 0.5 coeff= 0.7 ;accuracy= 0.375
+c= 2 ;gamma= 0.5 coeff= 0.7 ;accuracy= 0.375
+c= 4 ;gamma= 0.5 coeff= 0.7 ;accuracy= 0.375
+c= 8 ;gamma= 0.5 coeff= 0.7 ;accuracy= 0.375
+c= 16 ;gamma= 0.5 coeff= 0.7 ;accuracy= 0.375
+c= 32 ;gamma= 0.5 coeff= 0.7 ;accuracy= 0.375
+c= 64 ;gamma= 0.5 coeff= 0.7 ;accuracy= 0.375
+c= 0.03125 ;gamma= 2 coeff= 0.7 ;accuracy= 0.375
+c= 0.0625 ;gamma= 2 coeff= 0.7 ;accuracy= 0.375
+c= 0.125 ;gamma= 2 coeff= 0.7 ;accuracy= 0.375
+c= 0.25 ;gamma= 2 coeff= 0.7 ;accuracy= 0.375
+c= 0.5 ;gamma= 2 coeff= 0.7 ;accuracy= 0.375
+c= 1 ;gamma= 2 coeff= 0.7 ;accuracy= 0.375
+c= 2 ;gamma= 2 coeff= 0.7 ;accuracy= 0.375
+c= 4 ;gamma= 2 coeff= 0.7 ;accuracy= 0.375
+c= 8 ;gamma= 2 coeff= 0.7 ;accuracy= 0.375
+c= 16 ;gamma= 2 coeff= 0.7 ;accuracy= 0.375
+c= 32 ;gamma= 2 coeff= 0.7 ;accuracy= 0.375
+c= 64 ;gamma= 2 coeff= 0.7 ;accuracy= 0.375
+c= 0.03125 ;gamma= 8 coeff= 0.7 ;accuracy= 0.375
+c= 0.0625 ;gamma= 8 coeff= 0.7 ;accuracy= 0.375
+c= 0.125 ;gamma= 8 coeff= 0.7 ;accuracy= 0.375
+c= 0.25 ;gamma= 8 coeff= 0.7 ;accuracy= 0.375
+c= 0.5 ;gamma= 8 coeff= 0.7 ;accuracy= 0.375
+c= 1 ;gamma= 8 coeff= 0.7 ;accuracy= 0.375
+c= 2 ;gamma= 8 coeff= 0.7 ;accuracy= 0.375
+c= 4 ;gamma= 8 coeff= 0.7 ;accuracy= 0.375
+c= 8 ;gamma= 8 coeff= 0.7 ;accuracy= 0.375
+c= 16 ;gamma= 8 coeff= 0.7 ;accuracy= 0.375
+c= 32 ;gamma= 8 coeff= 0.7 ;accuracy= 0.375
+c= 64 ;gamma= 8 coeff= 0.7 ;accuracy= 0.375
+c= 0.03125 ;gamma= 32 coeff= 0.7 ;accuracy= 0.375
+c= 0.0625 ;gamma= 32 coeff= 0.7 ;accuracy= 0.375
+c= 0.125 ;gamma= 32 coeff= 0.7 ;accuracy= 0.375
+c= 0.25 ;gamma= 32 coeff= 0.7 ;accuracy= 0.375
+c= 0.5 ;gamma= 32 coeff= 0.7 ;accuracy= 0.375
+c= 1 ;gamma= 32 coeff= 0.7 ;accuracy= 0.375
+c= 2 ;gamma= 32 coeff= 0.7 ;accuracy= 0.375
+c= 4 ;gamma= 32 coeff= 0.7 ;accuracy= 0.375
+c= 8 ;gamma= 32 coeff= 0.7 ;accuracy= 0.375
+c= 16 ;gamma= 32 coeff= 0.7 ;accuracy= 0.375
+c= 32 ;gamma= 32 coeff= 0.7 ;accuracy= 0.375
+c= 64 ;gamma= 32 coeff= 0.7 ;accuracy= 0.375
+c= 0.03125 ;gamma= 3.0517578125e-05 coeff= -1 ;accuracy= 0.375
+c= 0.0625 ;gamma= 3.0517578125e-05 coeff= -1 ;accuracy= 0.375
+c= 0.125 ;gamma= 3.0517578125e-05 coeff= -1 ;accuracy= 0.375
+c= 0.25 ;gamma= 3.0517578125e-05 coeff= -1 ;accuracy= 0.375
+c= 0.5 ;gamma= 3.0517578125e-05 coeff= -1 ;accuracy= 0.375
+c= 1 ;gamma= 3.0517578125e-05 coeff= -1 ;accuracy= 0.375
+c= 2 ;gamma= 3.0517578125e-05 coeff= -1 ;accuracy= 0.375
+c= 4 ;gamma= 3.0517578125e-05 coeff= -1 ;accuracy= 0.375
+c= 8 ;gamma= 3.0517578125e-05 coeff= -1 ;accuracy= 0.375
+c= 16 ;gamma= 3.0517578125e-05 coeff= -1 ;accuracy= 0.375
+c= 32 ;gamma= 3.0517578125e-05 coeff= -1 ;accuracy= 0.375
+c= 64 ;gamma= 3.0517578125e-05 coeff= -1 ;accuracy= 0.375
+c= 0.03125 ;gamma= 0.0001220703125 coeff= -1 ;accuracy= 0.375
+c= 0.0625 ;gamma= 0.0001220703125 coeff= -1 ;accuracy= 0.375
+c= 0.125 ;gamma= 0.0001220703125 coeff= -1 ;accuracy= 0.375
+c= 0.25 ;gamma= 0.0001220703125 coeff= -1 ;accuracy= 0.375
+c= 0.5 ;gamma= 0.0001220703125 coeff= -1 ;accuracy= 0.375
+c= 1 ;gamma= 0.0001220703125 coeff= -1 ;accuracy= 0.375
+c= 2 ;gamma= 0.0001220703125 coeff= -1 ;accuracy= 0.375
+c= 4 ;gamma= 0.0001220703125 coeff= -1 ;accuracy= 0.375
+c= 8 ;gamma= 0.0001220703125 coeff= -1 ;accuracy= 0.375
+c= 16 ;gamma= 0.0001220703125 coeff= -1 ;accuracy= 0.375
+c= 32 ;gamma= 0.0001220703125 coeff= -1 ;accuracy= 0.375
+c= 64 ;gamma= 0.0001220703125 coeff= -1 ;accuracy= 0.4666666666666667
+c= 0.03125 ;gamma= 0.00048828125 coeff= -1 ;accuracy= 0.375
+c= 0.0625 ;gamma= 0.00048828125 coeff= -1 ;accuracy= 0.375
+c= 0.125 ;gamma= 0.00048828125 coeff= -1 ;accuracy= 0.375
+c= 0.25 ;gamma= 0.00048828125 coeff= -1 ;accuracy= 0.375
+c= 0.5 ;gamma= 0.00048828125 coeff= -1 ;accuracy= 0.375
+c= 1 ;gamma= 0.00048828125 coeff= -1 ;accuracy= 0.375
+c= 2 ;gamma= 0.00048828125 coeff= -1 ;accuracy= 0.375
+c= 4 ;gamma= 0.00048828125 coeff= -1 ;accuracy= 0.375
+c= 8 ;gamma= 0.00048828125 coeff= -1 ;accuracy= 0.375
+c= 16 ;gamma= 0.00048828125 coeff= -1 ;accuracy= 0.375
+c= 32 ;gamma= 0.00048828125 coeff= -1 ;accuracy= 0.375
+c= 64 ;gamma= 0.00048828125 coeff= -1 ;accuracy= 0.38095238095238093
+c= 0.03125 ;gamma= 0.001953125 coeff= -1 ;accuracy= 0.375
+c= 0.0625 ;gamma= 0.001953125 coeff= -1 ;accuracy= 0.375
+c= 0.125 ;gamma= 0.001953125 coeff= -1 ;accuracy= 0.375
+c= 0.25 ;gamma= 0.001953125 coeff= -1 ;accuracy= 0.375
+c= 0.5 ;gamma= 0.001953125 coeff= -1 ;accuracy= 0.375
+c= 1 ;gamma= 0.001953125 coeff= -1 ;accuracy= 0.375
+c= 2 ;gamma= 0.001953125 coeff= -1 ;accuracy= 0.375
+c= 4 ;gamma= 0.001953125 coeff= -1 ;accuracy= 0.375
+c= 8 ;gamma= 0.001953125 coeff= -1 ;accuracy= 0.375
+c= 16 ;gamma= 0.001953125 coeff= -1 ;accuracy= 0.375
+c= 32 ;gamma= 0.001953125 coeff= -1 ;accuracy= 0.375
+c= 64 ;gamma= 0.001953125 coeff= -1 ;accuracy= 0.375
+c= 0.03125 ;gamma= 0.0078125 coeff= -1 ;accuracy= 0.375
+c= 0.0625 ;gamma= 0.0078125 coeff= -1 ;accuracy= 0.375
+c= 0.125 ;gamma= 0.0078125 coeff= -1 ;accuracy= 0.375
+c= 0.25 ;gamma= 0.0078125 coeff= -1 ;accuracy= 0.375
+c= 0.5 ;gamma= 0.0078125 coeff= -1 ;accuracy= 0.375
+c= 1 ;gamma= 0.0078125 coeff= -1 ;accuracy= 0.375
+c= 2 ;gamma= 0.0078125 coeff= -1 ;accuracy= 0.375
+c= 4 ;gamma= 0.0078125 coeff= -1 ;accuracy= 0.375
+c= 8 ;gamma= 0.0078125 coeff= -1 ;accuracy= 0.375
+c= 16 ;gamma= 0.0078125 coeff= -1 ;accuracy= 0.375
+c= 32 ;gamma= 0.0078125 coeff= -1 ;accuracy= 0.375
+c= 64 ;gamma= 0.0078125 coeff= -1 ;accuracy= 0.375
+c= 0.03125 ;gamma= 0.03125 coeff= -1 ;accuracy= 0.375
+c= 0.0625 ;gamma= 0.03125 coeff= -1 ;accuracy= 0.375
+c= 0.125 ;gamma= 0.03125 coeff= -1 ;accuracy= 0.375
+c= 0.25 ;gamma= 0.03125 coeff= -1 ;accuracy= 0.375
+c= 0.5 ;gamma= 0.03125 coeff= -1 ;accuracy= 0.375
+c= 1 ;gamma= 0.03125 coeff= -1 ;accuracy= 0.375
+c= 2 ;gamma= 0.03125 coeff= -1 ;accuracy= 0.375
+c= 4 ;gamma= 0.03125 coeff= -1 ;accuracy= 0.375
+c= 8 ;gamma= 0.03125 coeff= -1 ;accuracy= 0.375
+c= 16 ;gamma= 0.03125 coeff= -1 ;accuracy= 0.375
+c= 32 ;gamma= 0.03125 coeff= -1 ;accuracy= 0.375
+c= 64 ;gamma= 0.03125 coeff= -1 ;accuracy= 0.375
+c= 0.03125 ;gamma= 0.125 coeff= -1 ;accuracy= 0.375
+c= 0.0625 ;gamma= 0.125 coeff= -1 ;accuracy= 0.375
+c= 0.125 ;gamma= 0.125 coeff= -1 ;accuracy= 0.375
+c= 0.25 ;gamma= 0.125 coeff= -1 ;accuracy= 0.375
+c= 0.5 ;gamma= 0.125 coeff= -1 ;accuracy= 0.375
+c= 1 ;gamma= 0.125 coeff= -1 ;accuracy= 0.375
+c= 2 ;gamma= 0.125 coeff= -1 ;accuracy= 0.375
+c= 4 ;gamma= 0.125 coeff= -1 ;accuracy= 0.375
+c= 8 ;gamma= 0.125 coeff= -1 ;accuracy= 0.375
+c= 16 ;gamma= 0.125 coeff= -1 ;accuracy= 0.375
+c= 32 ;gamma= 0.125 coeff= -1 ;accuracy= 0.375
+c= 64 ;gamma= 0.125 coeff= -1 ;accuracy= 0.375
+c= 0.03125 ;gamma= 0.5 coeff= -1 ;accuracy= 0.375
+c= 0.0625 ;gamma= 0.5 coeff= -1 ;accuracy= 0.375
+c= 0.125 ;gamma= 0.5 coeff= -1 ;accuracy= 0.375
+c= 0.25 ;gamma= 0.5 coeff= -1 ;accuracy= 0.375
+c= 0.5 ;gamma= 0.5 coeff= -1 ;accuracy= 0.375
+c= 1 ;gamma= 0.5 coeff= -1 ;accuracy= 0.375
+c= 2 ;gamma= 0.5 coeff= -1 ;accuracy= 0.375
+c= 4 ;gamma= 0.5 coeff= -1 ;accuracy= 0.375
+c= 8 ;gamma= 0.5 coeff= -1 ;accuracy= 0.375
+c= 16 ;gamma= 0.5 coeff= -1 ;accuracy= 0.375
+c= 32 ;gamma= 0.5 coeff= -1 ;accuracy= 0.375
+c= 64 ;gamma= 0.5 coeff= -1 ;accuracy= 0.375
+c= 0.03125 ;gamma= 2 coeff= -1 ;accuracy= 0.375
+c= 0.0625 ;gamma= 2 coeff= -1 ;accuracy= 0.375
+c= 0.125 ;gamma= 2 coeff= -1 ;accuracy= 0.375
+c= 0.25 ;gamma= 2 coeff= -1 ;accuracy= 0.375
+c= 0.5 ;gamma= 2 coeff= -1 ;accuracy= 0.375
+c= 1 ;gamma= 2 coeff= -1 ;accuracy= 0.375
+c= 2 ;gamma= 2 coeff= -1 ;accuracy= 0.375
+c= 4 ;gamma= 2 coeff= -1 ;accuracy= 0.375
+c= 8 ;gamma= 2 coeff= -1 ;accuracy= 0.375
+c= 16 ;gamma= 2 coeff= -1 ;accuracy= 0.375
+c= 32 ;gamma= 2 coeff= -1 ;accuracy= 0.375
+c= 64 ;gamma= 2 coeff= -1 ;accuracy= 0.375
+c= 0.03125 ;gamma= 8 coeff= -1 ;accuracy= 0.375
+c= 0.0625 ;gamma= 8 coeff= -1 ;accuracy= 0.375
+c= 0.125 ;gamma= 8 coeff= -1 ;accuracy= 0.375
+c= 0.25 ;gamma= 8 coeff= -1 ;accuracy= 0.375
+c= 0.5 ;gamma= 8 coeff= -1 ;accuracy= 0.375
+c= 1 ;gamma= 8 coeff= -1 ;accuracy= 0.375
+c= 2 ;gamma= 8 coeff= -1 ;accuracy= 0.375
+c= 4 ;gamma= 8 coeff= -1 ;accuracy= 0.375
+c= 8 ;gamma= 8 coeff= -1 ;accuracy= 0.375
+c= 16 ;gamma= 8 coeff= -1 ;accuracy= 0.375
+c= 32 ;gamma= 8 coeff= -1 ;accuracy= 0.375
+c= 64 ;gamma= 8 coeff= -1 ;accuracy= 0.375
+c= 0.03125 ;gamma= 32 coeff= -1 ;accuracy= 0.375
+c= 0.0625 ;gamma= 32 coeff= -1 ;accuracy= 0.375
+c= 0.125 ;gamma= 32 coeff= -1 ;accuracy= 0.375
+c= 0.25 ;gamma= 32 coeff= -1 ;accuracy= 0.375
+c= 0.5 ;gamma= 32 coeff= -1 ;accuracy= 0.375
+c= 1 ;gamma= 32 coeff= -1 ;accuracy= 0.375
+c= 2 ;gamma= 32 coeff= -1 ;accuracy= 0.375
+c= 4 ;gamma= 32 coeff= -1 ;accuracy= 0.375
+c= 8 ;gamma= 32 coeff= -1 ;accuracy= 0.375
+c= 16 ;gamma= 32 coeff= -1 ;accuracy= 0.375
+c= 32 ;gamma= 32 coeff= -1 ;accuracy= 0.375
+c= 64 ;gamma= 32 coeff= -1 ;accuracy= 0.375
+optimal hyperparameters (sigmoid): gamma= 0.0001220703125 coef0= -1 c= 64 accuracy= 0.4666666666666667
+Accuracy (sigmoid) :  48.837209302325576
+Training Time (sigmoid) : 0.0
+----------------------------------------------------------------------------------------------------------------
+
+C:\Users\Admin\Desktop\ML\Assignment 2>
